@@ -1,0 +1,12 @@
+/* blue 5F8670
+yellow FF9800
+red B80000
+maroon 820300 */
+a{
+    text-decoration: none;
+    color: black;
+}
+.inputBody{
+    border-top: 4px darkslategray dotted;
+    border-bottom: 4px darkslategray dotted;
+}
